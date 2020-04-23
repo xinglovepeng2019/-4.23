@@ -1,0 +1,14 @@
+header{
+    height: 50px;
+    background: yellow;
+    color: red;
+    line-height: 50px;
+}
+main{
+    height: 300px;
+    background: pink;
+}
+footer{
+    height: 50px;
+    background: yellow;
+}
